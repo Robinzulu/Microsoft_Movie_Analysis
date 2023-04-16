@@ -31,6 +31,9 @@ The dataset contains information on over 5,000 movies, including budget, revenue
 The Jupyter notebook includes the following visualizations:
 
 1. Scatter plot of budget vs. revenue
+
+![Budget_vs_Rrevenue](https://github.com/Robinzulu/dsc-phase-1-project/blob/master/Budget_vs_Revenue.png)
+
 2. Bar chart of the top 10 movie genres by count
 
 ![Profit_per_season](https://github.com/Robinzulu/dsc-phase-1-project/blob/master/Profit_per_season.png)
