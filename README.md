@@ -77,7 +77,9 @@ Based on the analysis, the following conclusions can be drawn:
 5. High-quality movies with strong ratings and positive reviews are more likely to perform well at the box office.
 
 ## Contacts
-For any questions or feedback regarding this project, please contact 
+For any questions or feedback regarding this project, please contact: 
+  
   Email: robin.mutai@student.moringaschool.com.
+  
   Linkedin: https://www.linkedin.com/in/robin-mutai-275749190/
 
