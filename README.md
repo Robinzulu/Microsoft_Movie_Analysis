@@ -34,17 +34,23 @@ The Jupyter notebook includes the following visualizations:
 
 ![Budget_vs_Rrevenue](https://github.com/Robinzulu/dsc-phase-1-project/blob/master/Budget_vs_Revenue.png)
 
-2. Bar chart of the top 10 movie genres by count
+2. Pie chart of the profit made per season
 
 ![Profit_per_season](https://github.com/Robinzulu/dsc-phase-1-project/blob/master/Profit_per_season.png)
+
+5. Bar chart of the top 10 highest revenue movie genres
+
 ![Highest_Revenue_Movies](https://github.com/Robinzulu/dsc-phase-1-project/blob/master/Highest_Revenue_Movies.png)
 
-3. Bar chart of the top 10 highest-grossing movies 
+3. Pie chart of the top 10 highest-Profit movies 
 
- ![Highest_Revenue](https://github.com/Robinzulu/dsc-phase-1-project/blob/master/Revenue_per_season.png)
+ ![Highest_Profit](https://github.com/Robinzulu/dsc-phase-1-project/blob/master/Highest_profit_movies.png)
  
 4. Line chart of average movie ratings over time ![Highest_Rated_Genre](https://github.com/Robinzulu/dsc-phase-1-project/blob/master/Top_10_Highest_Rated_Movies_Genre.png)
 
+6. Bar chart of the revenue per season
+
+![Highest_Revenue](https://github.com/Robinzulu/dsc-phase-1-project/blob/master/Revenue_per_season.png)
 ## Conclusion
 Based on the analysis, the following conclusions can be drawn:
 
