@@ -37,6 +37,7 @@ The Jupyter notebook includes the following visualizations:
 2. Bar chart of the top 10 movie genres by count
 
 ![Profit_per_season](https://github.com/Robinzulu/dsc-phase-1-project/blob/master/Profit_per_season.png)
+![Highest_Revenue_Movies](https://github.com/Robinzulu/dsc-phase-1-project/blob/master/Highest_Revenue_Movies.png)
 
 3. Bar chart of the top 10 highest-grossing movies 
 
