@@ -32,7 +32,10 @@ The Jupyter notebook includes the following visualizations:
 
 1. Scatter plot of budget vs. revenue
 2. Bar chart of the top 10 movie genres by count
-3. Bar chart of the top 10 highest-grossing movies
+3. Bar chart of the top 10 highest-grossing movies 
+
+ ![Highest_Revenue](https://github.com/Robinzulu/dsc-phase-1-project/blob/master/Revenue_per_season.png)
+ 
 4. Line chart of average movie ratings over time ![Highest_Rated_Genre](https://github.com/Robinzulu/dsc-phase-1-project/blob/master/Top_10_Highest_Rated_Movies_Genre.png)
 
 ## Conclusion
